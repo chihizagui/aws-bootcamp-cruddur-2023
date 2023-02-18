@@ -6,6 +6,12 @@
 
 ## 3. Security Considerations
 
+### 3.1 MFA
+
+As a best practice, is important to secure root account by Multi Factor Authentication. Example below:
+
+![Alt text](../screenshots/week0/MFA.png "a title")
+
 ## 4. Recreate Conceptual Diagram
 
 ## 5. Logical Architectual Diagram
