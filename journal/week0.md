@@ -44,6 +44,10 @@ As Ashish showed in [Cloud Security Podcast](https://tinyurl.com/5n7xcx6y), I fo
 
 ## 4. Recreate Conceptual Diagram
 
+My overall understanding of the business needs were put on a napkin like this:
+
+![Alt text](./screenshots/week0/Napkin_diagram.jpg "a title")
+
 ## 5. Logical Architectual Diagram
 
 ## 7. Use CloudShell
