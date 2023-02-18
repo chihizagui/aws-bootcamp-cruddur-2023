@@ -2,6 +2,8 @@
 
 ## Summary of business requirements session
 
+I'll include a short description of the project.
+
 ## Spend Considerations
 
 ### Billing Alarm
@@ -42,15 +44,17 @@ As Ashish showed in [Cloud Security Podcast](https://tinyurl.com/5n7xcx6y), I fo
 
 ![Alt text](./screenshots/week0/SCP.png "a title")
 
-## 4. Recreate Conceptual Diagram
+## Recreate Conceptual Diagram
 
 My overall understanding of the business needs were put on a napkin like this:
 
 ![Alt text](./screenshots/week0/Napkin_diagram.jpg "a title")
 
-## 5. Logical Architectual Diagram
+## Logical Architectual Diagram
 
-## 7. Use CloudShell
+Here it can be display. I recreated the architecture showed in this [tutorial](https://tinyurl.com/2p8pjafv).
+
+## Use CloudShell
 
 AWS provide a shell on its cloud for using the command line like this:
 
@@ -62,7 +66,7 @@ For IAM user created, you have to create credentials if you are going to use CLI
 
 ![Alt text](./screenshots/week0/Credentials.png "a title")
 
-## 9. Installed AWS CLI
+## Installed AWS CLI
 
 I used my local environment to install AWS CLI. Because of I run this on a Mac, I followed this [instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) for installing:
 
