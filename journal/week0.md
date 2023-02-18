@@ -8,15 +8,29 @@
 
 In order to monitor your cloud expenses, if important to have at least a billing alert for total charges in a period of time. For example:
 
-![Alt text](../screenshots/week0/Billing_alarm.png "a title")
+![Alt text](./screenshots/week0/Billing_alarm.png "a title")
 
-## 3. Security Considerations
+### Budgets
 
-### 3.1 MFA
+I set a monthly budget for a total of $10.00. It looks like this:
+
+![Alt text](./screenshots/week0/Budget.png "a title")
+
+## Security Considerations
+
+### MFA
 
 As a best practice, is important to secure root account by Multi Factor Authentication. Example below:
 
-![Alt text](../screenshots/week0/MFA.png "a title")
+![Alt text](./screenshots/week0/MFA.png "a title")
+
+### Organizational Structure
+
+These are my organization units:
+
+![Alt text](./screenshots/week0/Organizations.png "a title")
+
+### CloudTrail
 
 ## 4. Recreate Conceptual Diagram
 
