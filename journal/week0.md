@@ -46,14 +46,20 @@ As Ashish showed in [Cloud Security Podcast](https://tinyurl.com/5n7xcx6y), I fo
 
 ## 5. Logical Architectual Diagram
 
-## 6. Create an Admin User
-
 ## 7. Use CloudShell
 
-## 8. Generate AWS Credentials
+AWS provide a shell on its cloud for using the command line like this:
+
+![Alt text](./screenshots/week0/CloudShell.png "a title")
+
+## Generate AWS Credentials
+
+For IAM user created, you have to create credentials if you are going to use CLI. For instance:
+
+![Alt text](./screenshots/week0/Credentials.png "a title")
 
 ## 9. Installed AWS CLI
 
-## 10. Create a Billing Alarm
+I used my local environment to install AWS CLI. Because of I run this on a Mac, I followed this [instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) for installing:
 
-## 11. Create a Budget
+![Alt text](./screenshots/week0/AWSCLI.png "a title")
