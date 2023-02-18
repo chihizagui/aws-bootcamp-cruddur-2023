@@ -30,7 +30,17 @@ These are my organization units:
 
 ![Alt text](./screenshots/week0/Organizations.png "a title")
 
-### CloudTrail
+### IAM User
+
+In order to avoid using your root account for everything, just create an admin user. For example:
+
+![Alt text](./screenshots/week0/AdminUser.png "a title")
+
+### Security Control Policies
+
+As Ashish showed in [Cloud Security Podcast](https://tinyurl.com/5n7xcx6y), I followed the practice for defining an SCP for prevent leaving organization as shown below:
+
+![Alt text](./screenshots/week0/SCP.png "a title")
 
 ## 4. Recreate Conceptual Diagram
 
