@@ -1,8 +1,14 @@
 # Week 0 — Billing and Architecture
 
-## 1. Summary of business requirements session
+## Summary of business requirements session
 
-## 2. Spend Considerations
+## Spend Considerations
+
+### Billing Alarm
+
+In order to monitor your cloud expenses, if important to have at least a billing alert for total charges in a period of time. For example:
+
+![Alt text](../screenshots/week0/Billing_alarm.png "a title")
 
 ## 3. Security Considerations
 
