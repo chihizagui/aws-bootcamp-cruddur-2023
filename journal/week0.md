@@ -52,7 +52,7 @@ My overall understanding of the business needs were put on a napkin like this:
 
 ## Logical Architectual Diagram
 
-Here it can be display. I recreated the architecture showed in this [tutorial](https://tinyurl.com/2p8pjafv).
+[Here](https://tinyurl.com/48ekrcz3) it can be display. I recreated the architecture showed in this [tutorial](https://tinyurl.com/2p8pjafv).
 
 ## Use CloudShell
 
