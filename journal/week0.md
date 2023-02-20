@@ -10,7 +10,7 @@ I'll include a short description of the project.
 
 In order to monitor your cloud expenses, if important to have at least a billing alert for total charges in a period of time. For example:
 
-![Proof of billing alarm creation](./screenshots/week0/Billing_alarm.png)
+![Text](./screenshots/week0/Billing_alarm.png "Proof of billing alarm creation")
 
 ### Budgets
 
